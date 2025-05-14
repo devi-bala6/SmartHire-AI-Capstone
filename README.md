@@ -83,7 +83,7 @@ print(f"Match Score: {similarity:.2f}%")
 
 **Devi Bala**
 B.Tech Computer Science Student
-http://www.linkedin.com/in/devi-bala-1010b8300
+/linkedin profile: http://www.linkedin.com/in/devi-bala-1010b8300
 
 ---
 
